@@ -1,0 +1,5 @@
+export const SET_LOADING = 'SET_LOADING'
+export const SET_ARTICLES = 'SET_ARTICLES'
+export const REMOVE_STORY = 'REMOVE_STORY'
+export const HANDLE_PAGE = 'HANDLE_PAGE'
+export const HANDLE_SEARCH = 'HANDLE_SEARCH'
